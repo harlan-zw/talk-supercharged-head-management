@@ -121,7 +121,7 @@ layout: section-center
 class: text-center
 ---
 
-<img src="img_14.png" class="max-h-[60%] mx-auto">
+<img src="/img_14.png" class="max-h-[60%] mx-auto">
 
 
 ---
@@ -272,7 +272,7 @@ layout: section-center
 - I fixed a couple of bugs and did some triage. Got hooked.
 - Asked Anthony to take over as maintainer, it worked
 
-<img src="img_2.png" class="mx-auto w-450px">
+<img src="/img_2.png" class="mx-auto w-450px">
 
 ---
 layout: section-center
@@ -288,7 +288,7 @@ layout: section-center
 <h1><span class="text-sm"><logos-vueuse /> VueUse Head - Updates</span><div class="mt-3">Fully typed `useHead`</div></h1> 
 
 <video autoplay loop muted class="h-250px mx-auto">
-<source src="FeOu7V_agAQzDZ7.mp4" type="video/mp4">
+<source src="/FeOu7V_agAQzDZ7.mp4" type="video/mp4">
 </video>
 
 Created the zhead package. Focus on types but also common auto-completions.
